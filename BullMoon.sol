@@ -769,10 +769,11 @@ contract BullMoon is Context, IBEP20, Ownable {
     bool public swapAndLiquifyEnabled = true;
     
     uint256 public _maxTxAmount = 5000000 * 10**6 * 10**9;
-    uint256 private constant numTokensSellToAddToLiquidity = 500000 * 10**6 * 10**9;
+    uint256 private numTokensSellToAddToLiquidity = 500000 * 10**6 * 10**9;
     
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
     event SwapAndLiquifyEnabledUpdated(bool enabled);
+    event NumTokensSellToAddToLiquidityUpdated(uint256 _numTokensSellToAddToLiquidity);
     event SwapAndLiquify(
         uint256 tokensSwapped,
         uint256 bnbReceived,
@@ -910,7 +911,8 @@ contract BullMoon is Context, IBEP20, Ownable {
             }
         }
     }
-        function _transferBothExcluded(address sender, address recipient, uint256 tAmount) private {
+    
+    function _transferBothExcluded(address sender, address recipient, uint256 tAmount) private {
         (uint256 rAmount, uint256 rTransferAmount, uint256 rFee, uint256 tTransferAmount, uint256 tFee, uint256 tLiquidity) = _getValues(tAmount);
         _tOwned[sender] = _tOwned[sender].sub(tAmount);
         _rOwned[sender] = _rOwned[sender].sub(rAmount);
@@ -921,7 +923,7 @@ contract BullMoon is Context, IBEP20, Ownable {
         emit Transfer(sender, recipient, tTransferAmount);
     }
     
-        function excludeFromFee(address account) public onlyOwner {
+    function excludeFromFee(address account) public onlyOwner {
         _isExcludedFromFee[account] = true;
     }
     
@@ -946,6 +948,12 @@ contract BullMoon is Context, IBEP20, Ownable {
     function setSwapAndLiquifyEnabled(bool _enabled) public onlyOwner {
         swapAndLiquifyEnabled = _enabled;
         emit SwapAndLiquifyEnabledUpdated(_enabled);
+    }
+    
+    // special thanks to SAFERmoon
+    function setNumTokensSellToAddToLiquidity(uint256 _numTokensSellToAddToLiquidity) external onlyOwner() {
+        numTokensSellToAddToLiquidity = _numTokensSellToAddToLiquidity;
+        emit NumTokensSellToAddToLiquidityUpdated(_numTokensSellToAddToLiquidity);
     }
     
     // special thanks to FreezyEx
@@ -1111,7 +1119,7 @@ contract BullMoon is Context, IBEP20, Ownable {
         // how much BNB did we just swap into?
         uint256 newBalance = address(this).balance.sub(initialBalance);
 
-        // add liquidity to uniswap
+        // add liquidity to pancakeswap
         addLiquidity(otherHalf, newBalance);
         
         emit SwapAndLiquify(half, newBalance, otherHalf);
