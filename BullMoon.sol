@@ -22,40 +22,40 @@ Medium:
 https://medium.com/@bullmoonbsc
 
      
-
-                                  ▄▄▄▓▓█████▓▓▓▓▓▓▒▒▓▒▒▒▒▒▒▒▒▒▄▄▄
-                            ▄▄██████████▓▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▓▒▒▒▒▒▒▓▓▒▒▒▒▄
-                        ▄▄▓▓▓▓██████▓██▓▓▒▒▓▓▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒▒▒▒▓▓▒▓▒▒▒▄
-                     ▄███▓▒▓▓█████▓█▓▓▓▒▒▒▒▓▓▓▓▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒░▓▓▒▄
-                   ▄███▓▒▒▓▓▓▓▓▓▓▓▒▓▒▒▒▒▒▓▓▓▓▓▓▒▒▒▒▒▒▒▓▒▒▒▒▒░▒▒░▒▒▒▒▒▒▒░▒▒▓▓▓▄
-                 ▄▓▓▓▓▒▒▓▓▓▓▓▓▓▓██▒▒▒▒▒▒▒▓▒▒▓▒▒▒▒▒░░░░░▒░▒░▒▒░▒▒░▒▓▒▒▒▒▒▒▒▒▒▒░▒▄
-               ▄▓▓▓▒░▒▒▒▓▓██████▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░▒▒▒░░░▒░░░░▒░▒▒░░░▒▓▒▒▒▒▒▓░░▒▒▄
-              ▓▓▒▒▒▒▒▒▒▓███████▓███▓█▓▒▓▒▒▒░░░░░░▒░░░▒▒▒░▒▒░▒░▒░░▒▒▒▒▓▒░░▒▓▒▒░▒░▒▓▒
-             ▓▓▒▓▒▒▒▒▒▒▒░▒▀▀▀██████▓▒▒▓▒░░░░░░░░░▒░░░░░░░░░░░░░░░░░░▓▒▒▓░░▒░░▓▒▒▒▒▒░
-            ▓▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐▓▒▒▒▒▓▒▒▓▓▒▄▄░░▒░░░░░░░░░░░░░░░░░░░▓▒▒▒█░░░▓▓▒▒▓▒░░▒
-           ▓▓▒▒▓▓▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▒▒▒▒▒▒▒▓▒▒▒▒█▓▒▒▒▓░░░░░░░░░░░░░▓▒▒▒▒▓░░▓▒▒░▓▒▓▒▒▒
-          ▓▓▓▓▓▓▓▒▓▓▒▒▒▓▓▓▓▓▓▒▓▒▒▒▒▒▒▐▒▒▒▒▒▒▒▓▒▒▒▒▒▒▒▓▀▒▀▀░▄▄▄▄▄▄▄▄▄░▒▒▒▒▒▒█░░▓▒▓▒▒▓░▒▒
-         ▐▒▓▓▓▒▓▓█▒▓▓▒▒▓▓▓▓▓▓▓▀▄▄▐▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓░░▓▒▒░░░░▒▌
-         ▓▒▒▒▒▓▓▓▒▓▒▓▒░░░░▀▓▓░███▓▒▒▒▒▒▒▓▀  ▀▒▒▒▒▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓░░░░▒▓▒▒░░▒▒
-         ▓▓▓▓▀░░░░ ▀█▓█▒▄▒▒█▓▒███▒▒▒▒▒▒█ ▄██▄▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒▓▒░░▓▒▒░░░░░▒░▒
-         ▓▓▓░▒░░░░░░░░░░░░░▒▀░░░░▀▓▒▒▒▓ ██▓██▓▒▒▒▒▒▒▓▒▒▓▓▓▓▓▓▓▓▓▒▒▒▓▓▀░░░░▒▓▒▒▒▒░░░░░▒▒░
-         ▓▓▓░▄▒░░░░░░░░░░░▒░░░░▄▓▄░▐▒▒▓▒█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓█▄▒░░░░▒░░░▓▒▒▒░░▒░▒
-         ▒▓▒▓░░░░░░░░░░░░░░░░▓▓▓██░▐▓▒▒█▓███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▒▒▒█▓▒░░░▓▒▒░▒░░░░▒▒
-         ▒▒▒▌░░░░░░░▒░░░░░░░▐▓▓█▀░▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒░░░░░░░░▒░▒▀▓▓█░▒░▓▒▒░░░▒░░▒
-         ▐░▒█░░░░░░▐░░░░░░░░░░░░░▒▒▓▒▒▓▓█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒▓▓▄▒░░░░░▒▄▓▓▀░▒░▓▒▒░░░░▒░▒▌
-          ▐▒▒▓▒▒▒▒▒▓░░░░░░░░░░░░░▒▒█  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒░▒▓▓▓▓▓█▀▒▒▒░▒▓▒▒░▒▒░▒░▒▒▌
-           ░▒▒░▀▓▓▒▓▓▒▒▒░░░░░▒▒▒▒▒▀▌▄▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓█▒░░░▓▒▒▒░░░░░░░░▒░
-            ▒▒▒▒▒▒▓▒█ ▀▓▓▓▒▒▓▓▀▀▓ ▄▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓█▒▓▒▒▓▓▓▒▒░░▒░░░░▓▒▒░▒░▒░▒▒
-             ░▒▒▒▒▒▓▓█▄▐▄   ▐▒ ▄█▓▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒▒▒▒▒░░░░░░░▓▒▒░░░░░▒░▒▒▒▒
-              ▒▒▒▒░░▀▓▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▓▓▓▓▓▒▓▓▒▒▒▒▒░░░░░░░▒▒░░░░░░▓▒▒▒
-               ▐░▒▒░░▒█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▒▒▒░░░░░▓▒▒░░░▒▒▓▒▒▒▌
-                 ░▒▒▒░░▒▀▓▓█▓▓▓▓▓▓▒▓▓▓▓▒▒▓▒▒▓▒▓▒▓▓▓▓▓▓▓▓▓▓▓▒▒▒░░░░░░░░▒▓▒▒░▓░▒▒▒
-                   ▐▒▒▓▒▒▒▒▒▒▒▓▓▓▓▒▒▒▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▓▒▒░░░░░░░░░░▒░▒▌
-                     ▀▓▒▒▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▓▒▒░░░░░▒▒░░░░░▒▀
-                        ▀▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▓▓▒▓▒▒▓▒▒░▒▓▒░░░░▓▒▒░▀
-                            ▀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▒▒░░░░░░░░▒░░▒░▀
-                                 ▀▀▓▓▓▒▓▓▒▓▓▓▒▓▓▒▓▒▒░░░░░░░▒░▒▀▀
-
+     
+                                  ▄▄▄▓▓█████▓▓▓▓▓▓▄▄▄▄
+                            ▄▄██████████▓▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓
+                        ▄▄▓▓▓▓██████▓██▓▓▒▒▓▓▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒▓
+                     ▄███▓▒▓▓█████▓█▓▓▓▒▒▒▒▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒░▓▓
+                   ▄███▓▒▒▓▓▓▓▓▓▓▓▒▓▒▒▒▒▒▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒░▒▒░▒▒▒▒▒▒▒░▒▒▓▓▓▒
+                 ▄▓▓▓▓▒▒▓▓▓▓▓▓▓▓██▒▒▒▒▒▒▒▓▒▒▓▒▒▒▒▒░░░░░▒░▒░▒▒░▒▒░▒▒▒▒▒▒▒▒▒░░▒▄
+               ▄▓▓▓▒░▒▒▒▓▓██████▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░▒▒▒░░░▒░░░░▒░▒▒░▓▒▒▒▒▒▓░░
+              ▓▓▒▒▒▒▒▒▒▓███████▓███▓█▓▒▓▒▒▒░░░░░░▒░░░▒▒▒░▒▒░▒░▒░░▒▒▒▒▓▒░░▒░▒░▒▓
+             ▓▓▒▓▒▒▒▒▒▒▒░▒▀▀▀██████▓▒▒▓▒░░░░░░░░░▒░░░░░░░░░░░░░░░░░░▓▓░▒▓▒▓▒░░
+            ▓▒▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▐▓▒▒▒▒▓▒▒▓▓▒▄▄░░▒░░░░░░░░░░░░░░░░░░░░▒░█░░░▓▓▒░░▒
+           ▓▓▒▒▓▓▒▓▓▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▒▒▒▒▒▒▒▓▒▒▒▒█▓▒▒▒▓░░░░░░░░░░░░░░▒▒▒░▓░░░▓▒▓▒▒░
+          ▓▓▓▓▓▓▓▒▓▓▒▒▒▓▓▓▓▓▓▒▓▒▒▒▒▒▒▐▒▒▒▒▒▒▒▓▒▒▒▒▒▒▒▓▀▒▀▀░▄▄▄▄▄▄▄▄▄░▒▒▒▒█░░▓▒▓░░░▒
+         ▐▒▓▓▓▒▓▓█▒▓▓▒▒▓▓▓▓▓▓▓▀▄▄▐▒▒▒▒▒▒▒▒▒▒▒█▒▒▒▒▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓░░░░░░░░░
+         ▓▒▒▒▒▓▓▓▒▓▒▓▒░░░░▀▓▓░███▓▒▒▒▒▒▒▓▀  ▀▒▒▒▒▒▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓░░░░▒░░▒░░
+         ▓▓▓▓▀░░░░ ▀█▓█▒▄▒▒█▓▒███▒▒▒▒▒▒█ ▄██▄▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒▓▒░░░░░░░▒░░
+         ▓▓▓░▒░░░░░░░░░░░░░▒▀░░░░▀▓▒▒▒▓ ██▓██▓▒▒▒▒▒▒▓▒▒▓▓▓▓▓▓▓▓▓▒▒▒▓▓▀░░░░▒▒▒░░░░░
+         ▓▓▓░▄▒░░░░░░░░░░░▒░░░░▄▓▄░▐▒▒▓▒█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓█▄▒░░░░▒░░░▒░░▒░
+         ▒▓▒▓░░░░░░░░░░░░░░░░▓▓▓██░▐▓▒▒█▓███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▒▒▒█▓▒░░░░▒░░░░
+         ▒▒▒▌░░░░░░░▒░░░░░░░▐▓▓█▀░▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒░░░░░░░░▒░▒▀▓▓█░▒░░░░▒░░
+         ▐░▒█░░░░░░▐░░░░░░░░░░░░░▒▒▓▒▒▓▓█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▒▓▓▄▒░░░░░▒▄▓▓▀░▒░░░░░▒░
+          ▐▒▒▓▒▒▒▒▒▓░░░░░░░░░░░░░▒▒█  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▒░▒▓▓▓▓▓█▀▒▒▒░▒░▒░▒░▒░▓▒
+           ░▒▒░▀▓▓▒▓▓▒▒▒░░░░░▒▒▒▒▒▀▌▄▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▒░░░▒░░░░░░░░▒░░
+            ▒▒▒▒▒▒▓▒█ ▀▓▓▓▒▒▓▓▀▀▓ ▄▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓█▒▓▒▒▓▓▓▒▒░░▒░░░░░▒░▒░░▒░
+             ░▒▒▒▒▒▓▓█▄▐▄   ▐▒ ▄█▓▒▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▒▒▒▒▒░░░░░░░░░░░░░▒▒░░░
+              ▒▒▒▒░░▀▓▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▓▓▓▓▓▒▓▓▒▒▒▒▒░░░░░░░░░░░░░▒░
+               ▐░▒▒░░▒█▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▒▒▒░░░░░░░░▒▒▓
+                 ░▒▒▒░░▒▀▓▓█▓▓▓▓▓▓▒▓▓▓▓▒▒▓▒▒▓▒▓▒▓▓▓▓▓▓▓▓▓▓▓▒▒▒░░░░░░░░▒░▓▒▒
+                   ▐▒▒▓▒▒▒▒▒▒▒▓▓▓▓▒▒▒▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒░░░░░░░░░▒░▒░
+                     ▀▓▒▒▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒░░░░░░░░░░░▒░
+                        ▀▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▓▓▒▓▒▒░▒▓▒░░░░▓▒▒░
+                            ▀▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░▒░░▒░
+                                 ▀▀▓▓▓▒▓▓▒▓▓▓▒▓▓▒░░░░░░░▒░▒▀▀
+     
      
  */
 
@@ -69,7 +69,7 @@ https://medium.com/@bullmoonbsc
 
 // SPDX-License-Identifier: MIT
     
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.6;
 
 /** 
  * @dev Interface of the BEP20 standard as defined in the EIP. 
@@ -142,8 +142,6 @@ interface IBEP20 {
      */
     event Approval(address indexed owner, address indexed spender, uint256 value);
 }
-
-
 
 /**
  * @dev Wrappers over Solidity's arithmetic operations with added overflow
@@ -540,36 +538,45 @@ contract Ownable is Context {
 
 // pragma solidity >=0.5.0;
 
-interface IUniswapV2Factory {
+interface IPancakeswapV2Factory {
     event PairCreated(address indexed token0, address indexed token1, address pair, uint);
+
     function feeTo() external view returns (address);
     function feeToSetter() external view returns (address);
+
     function getPair(address tokenA, address tokenB) external view returns (address pair);
     function allPairs(uint) external view returns (address pair);
     function allPairsLength() external view returns (uint);
+
     function createPair(address tokenA, address tokenB) external returns (address pair);
+
     function setFeeTo(address) external;
     function setFeeToSetter(address) external;
 }
 
 // pragma solidity >=0.5.0;
 
-interface IUniswapV2Pair {
+interface IPancakeswapV2Pair {
     event Approval(address indexed owner, address indexed spender, uint value);
     event Transfer(address indexed from, address indexed to, uint value);
+
     function name() external pure returns (string memory);
     function symbol() external pure returns (string memory);
     function decimals() external pure returns (uint8);
     function totalSupply() external view returns (uint);
     function balanceOf(address owner) external view returns (uint);
     function allowance(address owner, address spender) external view returns (uint);
+
     function approve(address spender, uint value) external returns (bool);
     function transfer(address to, uint value) external returns (bool);
     function transferFrom(address from, address to, uint value) external returns (bool);
+
     function DOMAIN_SEPARATOR() external view returns (bytes32);
     function PERMIT_TYPEHASH() external pure returns (bytes32);
     function nonces(address owner) external view returns (uint);
+
     function permit(address owner, address spender, uint value, uint deadline, uint8 v, bytes32 r, bytes32 s) external;
+
     event Mint(address indexed sender, uint amount0, uint amount1);
     event Burn(address indexed sender, uint amount0, uint amount1, address indexed to);
     event Swap(
@@ -581,6 +588,7 @@ interface IUniswapV2Pair {
         address indexed to
     );
     event Sync(uint112 reserve0, uint112 reserve1);
+
     function MINIMUM_LIQUIDITY() external pure returns (uint);
     function factory() external view returns (address);
     function token0() external view returns (address);
@@ -589,19 +597,22 @@ interface IUniswapV2Pair {
     function price0CumulativeLast() external view returns (uint);
     function price1CumulativeLast() external view returns (uint);
     function kLast() external view returns (uint);
+
     function mint(address to) external returns (uint liquidity);
     function burn(address to) external returns (uint amount0, uint amount1);
     function swap(uint amount0Out, uint amount1Out, address to, bytes calldata data) external;
     function skim(address to) external;
     function sync() external;
+
     function initialize(address, address) external;
 }
 
 // pragma solidity >=0.6.2;
 
-interface IUniswapV2Router01 {
+interface IPancakeswapV2Router01 {
     function factory() external pure returns (address);
     function WETH() external pure returns (address);
+
     function addLiquidity(
         address tokenA,
         address tokenB,
@@ -684,6 +695,7 @@ interface IUniswapV2Router01 {
         external
         payable
         returns (uint[] memory amounts);
+
     function quote(uint amountA, uint reserveA, uint reserveB) external pure returns (uint amountB);
     function getAmountOut(uint amountIn, uint reserveIn, uint reserveOut) external pure returns (uint amountOut);
     function getAmountIn(uint amountOut, uint reserveIn, uint reserveOut) external pure returns (uint amountIn);
@@ -693,7 +705,7 @@ interface IUniswapV2Router01 {
 
 // pragma solidity >=0.6.2;
 
-interface IUniswapV2Router02 is IUniswapV2Router01 {
+interface IPancakeswapV2Router02 is IPancakeswapV2Router01 {
     function removeLiquidityETHSupportingFeeOnTransferTokens(
         address token,
         uint liquidity,
@@ -711,6 +723,7 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
         uint deadline,
         bool approveMax, uint8 v, bytes32 r, bytes32 s
     ) external returns (uint amountETH);
+
     function swapExactTokensForTokensSupportingFeeOnTransferTokens(
         uint amountIn,
         uint amountOutMin,
@@ -732,7 +745,6 @@ interface IUniswapV2Router02 is IUniswapV2Router01 {
         uint deadline
     ) external;
 }
-
 
 contract BullMoon is Context, IBEP20, Ownable {
     using SafeMath for uint256;
@@ -762,8 +774,8 @@ contract BullMoon is Context, IBEP20, Ownable {
     uint256 public _liquidityFee = 5;
     uint256 private _previousLiquidityFee = _liquidityFee;
     
-    IUniswapV2Router02 public uniswapV2Router;
-    address public uniswapV2Pair;
+    IPancakeswapV2Router02 public pancakeswapV2Router;
+    address public pancakeswapV2Pair;
     
     bool inSwapAndLiquify;
     bool public swapAndLiquifyEnabled = true;
@@ -789,13 +801,13 @@ contract BullMoon is Context, IBEP20, Ownable {
     constructor () {
         _rOwned[_msgSender()] = _rTotal;
         
-        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x10ED43C718714eb63d5aA57B78B54704E256024E); //Pancakeswap's address
+        IPancakeswapV2Router02 _pancakeswapV2Router = IPancakeswapV2Router02(0x10ED43C718714eb63d5aA57B78B54704E256024E); //Pancakeswap's address
 	    // Create a pancakeswap pair for this new token
-        uniswapV2Pair = IUniswapV2Factory(_uniswapV2Router.factory())
-            .createPair(address(this), _uniswapV2Router.WETH());
+        pancakeswapV2Pair = IPancakeswapV2Factory(_pancakeswapV2Router.factory())
+            .createPair(address(this), _pancakeswapV2Router.WETH());
 
 	   // set the rest of the contract variables
-	   uniswapV2Router = _uniswapV2Router;
+	   pancakeswapV2Router = _pancakeswapV2Router;
 	        
 	   // exclude owner and this contract from fee
 	   _isExcludedFromFee[owner()] = true;
@@ -890,7 +902,7 @@ contract BullMoon is Context, IBEP20, Ownable {
     }
 
     function excludeFromReward(address account) public onlyOwner() {
-        // require(account != 0xD99D1c33F9fC3444f8101754aBC46c52416550D1, 'We can not exclude Pancakeswap router.');
+        // require(account != 0x10ED43C718714eb63d5aA57B78B54704E256024E, 'We can not exclude Pancakeswap router.');
         require(!_isExcluded[account], "Account is already excluded");
         if(_rOwned[account] > 0) {
             _tOwned[account] = tokenFromReflection(_rOwned[account]);
@@ -958,12 +970,12 @@ contract BullMoon is Context, IBEP20, Ownable {
     
     // special thanks to FreezyEx
     function setRouterAddress(address newRouter) public onlyOwner() {
-    IUniswapV2Router02 _newPancakeRouter = IUniswapV2Router02(newRouter);
-    uniswapV2Pair = IUniswapV2Factory(_newPancakeRouter.factory()).createPair(address(this), _newPancakeRouter.WETH());
-    uniswapV2Router = _newPancakeRouter;
+        IPancakeswapV2Router02 _newPancakeRouter = IPancakeswapV2Router02(newRouter);
+        pancakeswapV2Pair = IPancakeswapV2Factory(_newPancakeRouter.factory()).createPair(address(this), _newPancakeRouter.WETH());
+        pancakeswapV2Router = _newPancakeRouter;
     }
     
-    //to receive BNB from uniswapV2Router when swapping
+    // to receive BNB from pancakeswapV2Router when swapping
     receive() external payable {}
 
     function _reflectFee(uint256 rFee, uint256 tFee) private {
@@ -1082,23 +1094,23 @@ contract BullMoon is Context, IBEP20, Ownable {
         if (
             overMinTokenBalance &&
             !inSwapAndLiquify &&
-            from != uniswapV2Pair &&
+            from != pancakeswapV2Pair &&
             swapAndLiquifyEnabled
         ) {
             contractTokenBalance = numTokensSellToAddToLiquidity;
-            //add liquidity
+            // add liquidity
             swapAndLiquify(contractTokenBalance);
         }
         
-        //indicates if fee should be deducted from transfer
+        // indicates if fee should be deducted from transfer
         bool takeFee = true;
         
-        //if any account belongs to _isExcludedFromFee account then remove the fee
+        // if any account belongs to _isExcludedFromFee account then remove the fee
         if(_isExcludedFromFee[from] || _isExcludedFromFee[to]){
             takeFee = false;
         }
         
-        //transfer amount, it will take tax, burn, liquidity fee
+        // transfer amount, it will take tax, burn, liquidity fee
         _tokenTransfer(from,to,amount,takeFee);
     }
 
@@ -1129,12 +1141,12 @@ contract BullMoon is Context, IBEP20, Ownable {
         // generate the pancakeswap pair path of token -> wbnb
         address[] memory path = new address[](2);
         path[0] = address(this);
-        path[1] = uniswapV2Router.WETH();
+        path[1] = pancakeswapV2Router.WETH();
 
-        _approve(address(this), address(uniswapV2Router), tokenAmount);
+        _approve(address(this), address(pancakeswapV2Router), tokenAmount);
 
         // make the swap
-        uniswapV2Router.swapExactTokensForETHSupportingFeeOnTransferTokens(
+        pancakeswapV2Router.swapExactTokensForETHSupportingFeeOnTransferTokens(
             tokenAmount,
             0, // accept any amount of BNB
             path,
@@ -1145,10 +1157,10 @@ contract BullMoon is Context, IBEP20, Ownable {
 
     function addLiquidity(uint256 tokenAmount, uint256 bnbAmount) private {
         // approve token transfer to cover all possible scenarios
-        _approve(address(this), address(uniswapV2Router), tokenAmount);
+        _approve(address(this), address(pancakeswapV2Router), tokenAmount);
 
         // add the liquidity
-        uniswapV2Router.addLiquidityETH{value: bnbAmount}(
+        pancakeswapV2Router.addLiquidityETH{value: bnbAmount}(
             address(this),
             tokenAmount,
             0, // slippage is unavoidable
